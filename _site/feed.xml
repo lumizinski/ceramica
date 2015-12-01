@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cerâmica é tudo!</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <description>Sensibilizar crianças e adultos por meio de oficinas de argila  e divulgar a cerâmica por meio de palestras. Resgatar o passado e estimular o futuro na aplicação do material cerâmico, sempre com um olhar na arte atuando com os conceitos de sustentabilidade. Compartilhar a arte cerâmica, com informações de programas e eventos.
 </description>
-    <link>http://yourdomain.com/</link>
-    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Nov 2015 09:08:43 -0200</pubDate>
-    <lastBuildDate>Wed, 25 Nov 2015 09:08:43 -0200</lastBuildDate>
+    <link>http://lumizinski.github.io/ceramica//</link>
+    <atom:link href="http://lumizinski.github.io/ceramica//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 01 Dec 2015 07:06:31 -0200</pubDate>
+    <lastBuildDate>Tue, 01 Dec 2015 07:06:31 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,8 +28,8 @@
 
 </description>
         <pubDate>Tue, 24 Nov 2015 18:00:30 -0200</pubDate>
-        <link>http://yourdomain.com/jekyll/update/2015/11/24/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/jekyll/update/2015/11/24/welcome-to-jekyll.html</guid>
+        <link>http://lumizinski.github.io/ceramica//jekyll/update/2015/11/24/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://lumizinski.github.io/ceramica//jekyll/update/2015/11/24/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
