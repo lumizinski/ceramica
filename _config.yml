@@ -10,7 +10,7 @@ title: Cerâmica é tudo!
 email: 
 description: > # this means to ignore newlines until "baseurl:"
   Sensibilizar crianças e adultos por meio de oficinas de argila  e divulgar a cerâmica por meio de palestras. Resgatar o passado e estimular o futuro na aplicação do material cerâmico, sempre com um olhar na arte atuando com os conceitos de sustentabilidade. Compartilhar a arte cerâmica, com informações de programas e eventos.
-baseurl: "/ceramica/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lumizinski.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  
